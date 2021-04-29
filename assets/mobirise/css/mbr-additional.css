@@ -680,8 +680,6 @@ a {
 .cid-svPHoZEakB {
   z-index: 1000;
   width: 100%;
-  position: relative;
-  min-height: 60px;
 }
 .cid-svPHoZEakB nav.navbar {
   position: fixed;
@@ -774,7 +772,7 @@ a {
   min-height: 77px;
   transition: all .3s;
   border-bottom: 1px solid transparent;
-  background: #ffffff;
+  background: rgba(255, 255, 255, 0.5);
 }
 .cid-svPHoZEakB .navbar:not(.navbar-short) {
   border-bottom: 1px solid #e6e6e6;
@@ -1054,8 +1052,6 @@ a {
 .cid-svPHrcGoWi {
   z-index: 1000;
   width: 100%;
-  position: relative;
-  min-height: 60px;
 }
 .cid-svPHrcGoWi nav.navbar {
   position: fixed;
@@ -1148,7 +1144,7 @@ a {
   min-height: 77px;
   transition: all .3s;
   border-bottom: 1px solid transparent;
-  background: #ffffff;
+  background: rgba(255, 255, 255, 0.5);
 }
 .cid-svPHrcGoWi .navbar:not(.navbar-short) {
   border-bottom: 1px solid #e6e6e6;
@@ -1428,8 +1424,6 @@ a {
 .cid-svPHtaXKtN {
   z-index: 1000;
   width: 100%;
-  position: relative;
-  min-height: 60px;
 }
 .cid-svPHtaXKtN nav.navbar {
   position: fixed;
@@ -1522,7 +1516,7 @@ a {
   min-height: 77px;
   transition: all .3s;
   border-bottom: 1px solid transparent;
-  background: #ffffff;
+  background: rgba(255, 255, 255, 0.5);
 }
 .cid-svPHtaXKtN .navbar:not(.navbar-short) {
   border-bottom: 1px solid #e6e6e6;
@@ -1802,8 +1796,6 @@ a {
 .cid-s48OLK6784 {
   z-index: 1000;
   width: 100%;
-  position: relative;
-  min-height: 60px;
 }
 .cid-s48OLK6784 nav.navbar {
   position: fixed;
@@ -1896,7 +1888,7 @@ a {
   min-height: 77px;
   transition: all .3s;
   border-bottom: 1px solid transparent;
-  background: #ffffff;
+  background: rgba(255, 255, 255, 0.5);
 }
 .cid-s48OLK6784 .navbar:not(.navbar-short) {
   border-bottom: 1px solid #e6e6e6;
@@ -2214,8 +2206,6 @@ a {
 .cid-svSk9JHa02 {
   z-index: 1000;
   width: 100%;
-  position: relative;
-  min-height: 60px;
 }
 .cid-svSk9JHa02 nav.navbar {
   position: fixed;
@@ -2308,7 +2298,7 @@ a {
   min-height: 77px;
   transition: all .3s;
   border-bottom: 1px solid transparent;
-  background: #ffffff;
+  background: rgba(255, 255, 255, 0.5);
 }
 .cid-svSk9JHa02 .navbar:not(.navbar-short) {
   border-bottom: 1px solid #e6e6e6;
@@ -2596,8 +2586,6 @@ a {
 .cid-s48OLK6784 {
   z-index: 1000;
   width: 100%;
-  position: relative;
-  min-height: 60px;
 }
 .cid-s48OLK6784 nav.navbar {
   position: fixed;
@@ -2690,7 +2678,7 @@ a {
   min-height: 77px;
   transition: all .3s;
   border-bottom: 1px solid transparent;
-  background: #ffffff;
+  background: rgba(255, 255, 255, 0.5);
 }
 .cid-s48OLK6784 .navbar:not(.navbar-short) {
   border-bottom: 1px solid #e6e6e6;
