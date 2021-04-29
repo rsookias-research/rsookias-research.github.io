@@ -798,6 +798,11 @@ a {
 .cid-svPHoZEakB .navbar.collapsed.opened .dropdown-menu {
   top: 0;
 }
+@media (min-width: 992px) {
+  .cid-svPHoZEakB .navbar.collapsed.opened:not(.navbar-short) .navbar-collapse {
+    max-height: calc(98.5vh - 3.8rem);
+  }
+}
 .cid-svPHoZEakB .navbar.collapsed .dropdown-menu .dropdown-submenu {
   left: 0 !important;
 }
@@ -1171,6 +1176,11 @@ a {
 }
 .cid-svPHrcGoWi .navbar.collapsed.opened .dropdown-menu {
   top: 0;
+}
+@media (min-width: 992px) {
+  .cid-svPHrcGoWi .navbar.collapsed.opened:not(.navbar-short) .navbar-collapse {
+    max-height: calc(98.5vh - 3.8rem);
+  }
 }
 .cid-svPHrcGoWi .navbar.collapsed .dropdown-menu .dropdown-submenu {
   left: 0 !important;
@@ -1546,6 +1556,11 @@ a {
 .cid-svPHtaXKtN .navbar.collapsed.opened .dropdown-menu {
   top: 0;
 }
+@media (min-width: 992px) {
+  .cid-svPHtaXKtN .navbar.collapsed.opened:not(.navbar-short) .navbar-collapse {
+    max-height: calc(98.5vh - 3.8rem);
+  }
+}
 .cid-svPHtaXKtN .navbar.collapsed .dropdown-menu .dropdown-submenu {
   left: 0 !important;
 }
@@ -1920,6 +1935,11 @@ a {
 .cid-s48OLK6784 .navbar.collapsed.opened .dropdown-menu {
   top: 0;
 }
+@media (min-width: 992px) {
+  .cid-s48OLK6784 .navbar.collapsed.opened:not(.navbar-short) .navbar-collapse {
+    max-height: calc(98.5vh - 3.8rem);
+  }
+}
 .cid-s48OLK6784 .navbar.collapsed .dropdown-menu .dropdown-submenu {
   left: 0 !important;
 }
@@ -2214,6 +2234,8 @@ a {
 .cid-svSk9JHa02 {
   z-index: 1000;
   width: 100%;
+  position: relative;
+  min-height: 60px;
 }
 .cid-svSk9JHa02 nav.navbar {
   position: fixed;
@@ -2306,7 +2328,7 @@ a {
   min-height: 77px;
   transition: all .3s;
   border-bottom: 1px solid transparent;
-  background: rgba(255, 255, 255, 0.4);
+  background: #ffffff;
 }
 .cid-svSk9JHa02 .navbar:not(.navbar-short) {
   border-bottom: 1px solid #e6e6e6;
@@ -2329,6 +2351,11 @@ a {
 }
 .cid-svSk9JHa02 .navbar.collapsed.opened .dropdown-menu {
   top: 0;
+}
+@media (min-width: 992px) {
+  .cid-svSk9JHa02 .navbar.collapsed.opened:not(.navbar-short) .navbar-collapse {
+    max-height: calc(98.5vh - 3.8rem);
+  }
 }
 .cid-svSk9JHa02 .navbar.collapsed .dropdown-menu .dropdown-submenu {
   left: 0 !important;
@@ -2711,6 +2738,11 @@ a {
 }
 .cid-s48OLK6784 .navbar.collapsed.opened .dropdown-menu {
   top: 0;
+}
+@media (min-width: 992px) {
+  .cid-s48OLK6784 .navbar.collapsed.opened:not(.navbar-short) .navbar-collapse {
+    max-height: calc(98.5vh - 3.8rem);
+  }
 }
 .cid-s48OLK6784 .navbar.collapsed .dropdown-menu .dropdown-submenu {
   left: 0 !important;
