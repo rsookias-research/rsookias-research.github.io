@@ -204,7 +204,7 @@
                 "width": "auto"
               },
               ".navbar-collapse": {
-                "justify-content": "flex-end",
+                "justify-content": "center",
                 "z-index": "1",
                 "& when not (@showItems)": {
                   "display": "none !important"
@@ -697,7 +697,7 @@
                 "width": "auto"
               },
               ".navbar-collapse": {
-                "justify-content": "flex-end",
+                "justify-content": "center",
                 "z-index": "1",
                 "& when not (@showItems)": {
                   "display": "none !important"
@@ -1190,7 +1190,7 @@
                 "width": "auto"
               },
               ".navbar-collapse": {
-                "justify-content": "flex-end",
+                "justify-content": "center",
                 "z-index": "1",
                 "& when not (@showItems)": {
                   "display": "none !important"
@@ -1683,7 +1683,7 @@
                 "width": "auto"
               },
               ".navbar-collapse": {
-                "justify-content": "flex-end",
+                "justify-content": "center",
                 "z-index": "1",
                 "& when not (@showItems)": {
                   "display": "none !important"
@@ -2225,7 +2225,7 @@
                 "width": "auto"
               },
               ".navbar-collapse": {
-                "justify-content": "flex-end",
+                "justify-content": "center",
                 "z-index": "1",
                 "& when not (@showItems)": {
                   "display": "none !important"
@@ -2742,7 +2742,7 @@
                 "width": "auto"
               },
               ".navbar-collapse": {
-                "justify-content": "flex-end",
+                "justify-content": "center",
                 "z-index": "1",
                 "& when not (@showItems)": {
                   "display": "none !important"
