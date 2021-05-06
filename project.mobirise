@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Roland Sookias - Research [background]-clone",
-    "currentPage": "about.html",
+    "currentPage": "publications.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -2344,14 +2344,14 @@
               "background": "@cardsBg",
               "transition": "all 0.3s",
               "padding": "2rem",
-              "padding-top": "3rem"
+              "padding-top": "2rem"
             },
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
             },
             "@media (min-width: 992px)": {
               ".card-wrapper": {
-                "padding-left": "4rem",
+                "padding-left": "2rem",
                 "padding-right": "4rem"
               }
             },
@@ -3474,14 +3474,14 @@
               "background": "@cardsBg",
               "transition": "all 0.3s",
               "padding": "2rem",
-              "padding-top": "3rem"
+              "padding-top": "2rem"
             },
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
             },
             "@media (min-width: 992px)": {
               ".card-wrapper": {
-                "padding-left": "4rem",
+                "padding-left": "2rem",
                 "padding-right": "4rem"
               }
             },
@@ -4602,14 +4602,14 @@
               "background": "@cardsBg",
               "transition": "all 0.3s",
               "padding": "2rem",
-              "padding-top": "3rem"
+              "padding-top": "2rem"
             },
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
             },
             "@media (min-width: 992px)": {
               ".card-wrapper": {
-                "padding-left": "4rem",
+                "padding-left": "2rem",
                 "padding-right": "4rem"
               }
             },
