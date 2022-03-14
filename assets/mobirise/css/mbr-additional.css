@@ -1475,6 +1475,10 @@ a {
 .cid-swu6uHp1P6 .mbr-section-title {
   text-align: left;
 }
+.cid-swu6uHp1P6 .mbr-text,
+.cid-swu6uHp1P6 .mbr-section-btn {
+  text-align: left;
+}
 .cid-sw3YYM91f8 .dropdown-item:before {
   font-family: MobiriseIcons !important;
   content: '\e966';
