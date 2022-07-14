@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Roland Sookias - Research Liege Version Local",
-    "currentPage": "page6.html",
+    "currentPage": "hub.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -6858,7 +6858,7 @@
         }
       ]
     },
-    "page6.html": {
+    "hub.html": {
       "settings": {
         "title": "Hub",
         "order": 5
