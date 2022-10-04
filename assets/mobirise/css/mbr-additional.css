@@ -5280,8 +5280,8 @@ a {
 }
 .cid-tjl0vig1ng .twitter-wrapper,
 .cid-tjl0vig1ng iframe {
-  min-height: 600px;
-  max-height: 600px;
+  min-height: 1000px;
+  max-height: 1000px;
   border-radius: 4px;
   background-size: contain;
   background-repeat: no-repeat;
