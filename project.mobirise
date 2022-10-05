@@ -10326,7 +10326,8 @@
           "_anchor": "eb-twitter-feed-5d",
           "safe": {
             "id": 5410,
-            "code": "<script src=\"https://s.electricblaze.com/widget.js\" defer></script>\n<div class=\"electricblaze-id-2Uhx6pO\"></div>"
+            "code": "<script src=\"https://s.electricblaze.com/widget.js\" defer></script>\n<div class=\"electricblaze-id-2Uhx6pO\"></div>",
+            "account": "rsookiasnews"
           },
           "_protectedParams": [],
           "_global": false,
