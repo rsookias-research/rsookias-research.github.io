@@ -9253,7 +9253,7 @@
     },
     "oldnews.html": {
       "settings": {
-        "title": "News",
+        "title": "Old_News",
         "order": 3
       },
       "components": [
