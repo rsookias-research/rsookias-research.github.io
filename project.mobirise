@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Roland Sookias - Research Liege Version Local",
-    "currentPage": "oldnews.html",
+    "currentPage": "news.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -8102,9 +8102,9 @@
         }
       ]
     },
-    "page8.html": {
+    "mastonews.html": {
       "settings": {
-        "title": "Page 8",
+        "title": "Masto_News",
         "order": 3
       },
       "components": [
@@ -9251,9 +9251,9 @@
         }
       ]
     },
-    "oldnews.html": {
+    "news.html": {
       "settings": {
-        "title": "Old_News",
+        "title": "News",
         "order": 3
       },
       "components": [
